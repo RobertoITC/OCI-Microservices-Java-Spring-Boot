@@ -1,0 +1,9 @@
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/App2Application.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/controller/OrderController.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/model/Order.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/model/User.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/repository/OrderRepository.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/service/OrderService.java
+/Users/robertomoralesnieto/IdeaProjects/app2/src/main/java/com/example/oci_microservice/service/UserService.java
